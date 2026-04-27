@@ -2,7 +2,7 @@
 
 Simple DCGAN model for generating 64x64 anime faces.
 
-<img src="https://www.kaggleusercontent.com/kf/303710638/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tXwJ_4a6GyZaV1xUSniqqA.1aHEhXNMJBHHrVWsDcDh7cnT9ReT8W5NoymR4tuqj46P-IaUSJcEF-goGGh2fWCMTO3yR-8hl8frG4GarVHcKGVOFljvhEwwnzytyjn3Vj5ApDNZA3ZLVAmHc1vH2yIst_MnTP5sJLO0rR7fKsyWYsD1Fg7qCwSoEyBXLigzHzoZ41D__l7-hVxvC81_TSXY5EDu_WOCHxxYBzgUl_hEWaGISc8BoKiRM5SCB2pcoznQWwua88XV0y_0jeYO3HRVgW_jDp-esWhpQwM1qKe7kcuw4FWJ6Tl0bn31nxAS7JMTklE425R_1r5295LPymHDOLwZm0vCUdtzWdjfGG9a7pRx04Etj8ZZNvpzp8RCfstXuqY8s8RNZYXSCZL9xJcARX-7BtEYqiUlz_wK6APRQJIpxPmEsSI8xOyij9eRGs7E3cBesL5A6FMimPyTP3-0mfSygzv9kvUHAuHnv7hRqHSWX9CzcfvKJS3f4QYljH0evukCSNPCWyd_C57V_9yq6WvShNG3MwwSc7PQ4TaYLRnSXb90K7auUAXvUWBlLIgTN0kzw4D986aGYqs61SoBbG-LB0TSxfauEeIf0cf6kUoOrgk4S2vrmOAkwBVtzrC97dIEuCyXGZ_SIMfLu5Q7CZTiJwPhG9r56l9t3k0hqw.GDW5B3fcxUFYUN1UWwLi8w/__results___files/__results___12_2.png" />
+<img src="https://github.com/rijulpaul/anime-face-dcgan/blob/main/results.png?raw=true" />
 
 
   <a href="https://www.kaggle.com/code/rijulpaul/anime-faces-using-dcgan-with-spectral-norm" target="_blank">
